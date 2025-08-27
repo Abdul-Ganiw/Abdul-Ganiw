@@ -1,45 +1,67 @@
-# Hi there, I'm Abdul-Ganiw Abdul-Karim! 👋
+<h1 align="center">Hi 👋, I'm Abdul-Ganiw Abdul-Karim</h1>
+<h3 align="center">Aspiring Backend Software Engineer | ALX Backend Development Program Learner</h3>
 
-![Alt text]([https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
+---
 
-## About Me 🚀
+### 👨‍💻 About Me
+I am a learner of the ALX <b>Backend Development Program</b> and I’m currently revamping my GitHub profile to make it stand out in my job search.  
 
-I'm a passionate **Software Engineer (Backend)** with experience in **Python, Django etc**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I started with software engineering because of my curiosity to **tackle complex problems, build solutions that impact people’s lives, and continuously grow through learning**.  
 
-- 🌱 Currently learning: **Backend Development and Systems Administration**
-- 🔭 Working on: **simple backend projects**
-- 🌍 Languages: **Python, C++, Java, etc**
-- 📫 How to reach me: **aabdulganiwu@gmail.com**
-- ⚡ Fun fact: **Love teaching, mentoring, community development, group collaboration, etc**
+✨ **What inspires me:** Using technology to drive community development and create accessible digital solutions.  
+🎯 **My vision:** to become a world-class backend engineer building scalable and impactful systems.  
+💡 **Projects I’d like to work on:** backend APIs, system tools, open-source projects, and collaborative tech solutions.  
 
-## My Skills 🧠
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-339933?style=flat-square&logo=node.js&logoColor=white)
+### 🌱 What I’m Learning
+- Backend Development (Python, Django, REST APIs)  
+- Systems Administration (Linux, Networking, Databases)  
 
+---
 
-<!-- ## Featured Projects 💻
+### 🔭 Current Projects
+- Building simple backend projects to strengthen my fundamentals  
+- Exploring collaborative projects in open-source  
 
-### [Project 1 Title](project_1_link)
+---
 
-![Project 1 Screenshot](project_1_screenshot_url)
+### 🌍 Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+---
 
-### [Project 2 Title](project_2_link)
+### 📫 Let’s Connect
+- Email: **aabdulganiwu@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/abdulganiw-abdulkarim/**  
+  
 
-![Project 2 Screenshot](project_2_screenshot_url)
+---
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+### ⚡ Fun Facts
+- Love teaching, mentoring, and community development 👩🏽‍🏫  
+- Thrive in group collaborations and team problem-solving 🤝  
+- Believe in lifelong learning and unlearning 📚  
 
-## Get in Touch 📬
+---
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)-->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak" width="48%"/>
+</p>
 
+---
 
+<h3 align="center">✨ Thank you for visiting my profile ✨</h3>
