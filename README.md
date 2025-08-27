@@ -1,6 +1,6 @@
 # Hi there, I'm Abdul-Ganiw Abdul-Karim! 👋
 
-![Alt text]([https://example.com/image.png](https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477))
+![Alt text]([https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477)
 
 
 ## About Me 🚀
