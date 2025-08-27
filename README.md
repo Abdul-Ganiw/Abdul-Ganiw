@@ -21,9 +21,8 @@ I'm a passionate **Software Engineer (Backend)** with experience in **Python, Dj
 ![Python](https://img.shields.io/badge/-Python-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+<!-- ## Featured Projects 💻
 
 ### [Project 1 Title](project_1_link)
 
@@ -41,6 +40,6 @@ I'm a passionate **Software Engineer (Backend)** with experience in **Python, Dj
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Twitter]**(your_twitter_profile_link)-->
 
 
